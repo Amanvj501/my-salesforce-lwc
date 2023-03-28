@@ -1,0 +1,17 @@
+New Support Ticket Created
+
+Dear Sir,
+
+User {!Support_Ticket__c.CreatedBy}  has created a new support ticket. Request you to please review and assign it to respective owner. 
+
+{!Support_Ticket__c.Link}
+
+Regards,
+
+EXL CPQ Support Centre
+
+
+0056Q000009NfJuQAK
+
+
+hex code = #FA4E0A
